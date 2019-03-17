@@ -8,6 +8,8 @@
 
 ------
 
+[![Edit reduxtodolist](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/shuangmianxiaoQ/redux-learning/tree/master/?fontsize=14)
+
 通过`TodoList`案例来学习`Redux`的相关内容：
 - Store
 - Action
